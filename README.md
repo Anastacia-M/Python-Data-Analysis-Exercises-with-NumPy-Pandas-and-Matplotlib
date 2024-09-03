@@ -5,7 +5,7 @@ In this repository I've compiled a series of exercises that I completed to deepe
 ## What I Learned:
 ### NumPy:
 
- - I gained proficiency in using multidimensional arrays (ndarray) and explored their capabilities for handling large datasets efficiently.
+ - I gained proficiency in using multidimensional arrays (`ndarray`) and explored their capabilities for handling large datasets efficiently.
  - I practiced performing mathematical and logical operations on arrays, which are crucial for data processing tasks.
  - I developed skills in advanced indexing, array reshaping, and transposition, allowing me to manipulate data in versatile ways.
  - I worked with 3D arrays and applied conditional logic using numpy.where, which enhanced my ability to handle complex data structures.
@@ -16,7 +16,7 @@ In this repository I've compiled a series of exercises that I completed to deepe
  - I learned to handle missing data, align data automatically, and perform type inference, which are critical for ensuring data integrity and accuracy.
  - I practiced various techniques for selecting, filtering, and sorting data, enabling me to manage and explore datasets effectively.
  - I delved into grouping, aggregating, and merging data, which equipped me with the tools to analyze data relationships and patterns.
- - I utilized apply() and map() functions to apply operations across datasets efficiently, and I explored advanced methods like concatenation, merging, and pivoting for combining and reshaping data.
+ - I utilized `apply()` and `map()` functions to apply operations across datasets efficiently, and I explored advanced methods like concatenation, merging, and pivoting for combining and reshaping data.
 
 ### Matplotlib:
 
