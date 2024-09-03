@@ -2,7 +2,8 @@
 
 In this repository I've compiled a series of exercises that I completed to deepen my understanding of essential Python libraries for data science: NumPy, Pandas, and Matplotlib. Through these hands-on tasks, I explored a wide range of topics in data manipulation, analysis, and visualization, which are fundamental for any data science project.
 
-The exercise file named `Python_exercises.ipynb`, as well as the source file `Canada_population_2024.csv`, can be found in the repository.
+The exercise file named `Python_exercises.ipynb`, as well as the source file [Canada_population_2024.csv](https://github.com/user-attachments/files/16856682/Canada_population_2024.csv)
+, can be found in the repository.
 
 ## What I Learned:
 ### NumPy:
