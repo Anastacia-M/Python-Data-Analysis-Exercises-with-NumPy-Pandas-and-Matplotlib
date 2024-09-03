@@ -1,6 +1,6 @@
 # Python Data Analysis Exercises with NumPy, Pandas, and Matplotlib
 
-In this repository I've compiled a series of exercises that I completed to deepen my understanding of essential Python libraries for data analysis: NumPy, Pandas, and Matplotlib. Through these hands-on tasks, I explored a wide range of topics in data manipulation, analysis, and visualization, which are fundamental for any data science project.
+In this repository I've compiled a series of exercises that I completed to deepen my understanding of essential Python libraries for data analysis: NumPy, Pandas, and Matplotlib. Through these hands-on tasks, I explored a wide range of topics in data manipulation, analysis, and visualization, which are fundamental for any data analysis project.
 
 You can explore the exercise file [here](./Python_exercises.ipynb), and the source file [Canada_population_2024.csv](https://github.com/user-attachments/files/16856682/Canada_population_2024.csv)
 can also be found in the repository.
